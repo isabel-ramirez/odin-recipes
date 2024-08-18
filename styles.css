@@ -1,0 +1,13 @@
+body {
+    font-family: Tahoma, Verdana, sans-serif;
+    background-color: #F5F6EA;
+}
+
+.recipe-title {
+    color: #D54215;
+    text-align: center;
+}
+.recipe-image {
+    width: 500px;
+    height: auto;
+}
